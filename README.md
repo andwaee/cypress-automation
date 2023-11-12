@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains automated tests for [Your Website Name] using Cypress, a powerful end-to-end testing framework. The tests are written in JavaScript, making it easy for developers and testers to understand and contribute.
+This repository contains automated tests for a Website using Cypress, a powerful end-to-end testing framework. The tests are written in JavaScript, making it easy for developers and testers to understand and contribute.
 
 ## Prerequisites
 

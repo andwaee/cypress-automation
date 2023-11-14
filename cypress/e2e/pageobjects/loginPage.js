@@ -11,8 +11,8 @@ class LoginPage {
     return cy.get("#login-button");
   }
 
-  homePageIcon() {
-    return cy.get("div.peek");
+  productText() {
+    return cy.get(".title");
   }
 }
 
